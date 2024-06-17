@@ -1,2 +1,2 @@
-# UP1_clusters
-UP1 MD ensemble of structures 
+MD ensemble of structures
+A 2μs Molecular Dynamics (MD) simulation was performed by using Gromacs 2023 package. The NMR solution structure (PDB code: 2LVY) was used as a starting conformation. To generate an ensemble of structures, the MD trajectory was aligned and clustered by k-means clustering using MDAnalysis. 50 clusters were generated and the representative structure of each cluster are available here.
